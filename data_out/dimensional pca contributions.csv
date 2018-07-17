@@ -1,0 +1,49 @@
+"dimension","variablename","contrib.to.dim1","cor.to.dim1","cos2.to.dim1","contrib.to.dim2","cor.to.dim2","cos2.to.dim2"
+"Economic","Aid Dependency (R)",9.79,0.65,0.43,1.81,0.19,0.03
+"Economic","Education (C)",19.18,0.91,0.83,0.13,0.05,0
+"Economic","Food Security (C)",14.78,0.8,0.64,0.16,-0.06,0
+"Economic","GDP Growth Rate (R)",1.08,-0.22,0.05,10.98,0.46,0.21
+"Economic","General government gross debt (R)",3.54,-0.39,0.15,3.72,0.27,0.07
+"Economic","Males in Labour Force (C)",17.52,0.87,0.76,0.21,0.06,0
+"Economic","NEET (R)",1.98,0.29,0.09,26.44,0.71,0.5
+"Economic","Regulatory Quality (C)",15.13,0.81,0.66,1.27,0.16,0.02
+"Economic","Remoteness (C)",11.43,0.7,0.5,1.25,-0.15,0.02
+"Economic","Resource Rent Dependence (R)",4.45,0.44,0.19,0,0.01,0
+"Economic","Unemployment Rate (R)",0.12,-0.07,0.01,28.02,0.73,0.53
+"Economic","Women in Labour Force (C)",1.01,-0.21,0.04,26.01,0.7,0.5
+"Environmental","Core civil society index (C)",4.76,0.43,0.19,18.78,0.51,0.26
+"Environmental","Environmental Health (R)",21.05,0.91,0.83,0.39,-0.07,0.01
+"Environmental","Food Security (C)",18.93,0.86,0.75,0.33,-0.07,0
+"Environmental","Natural Disasters Risk (R)",0.01,0.02,0,45.52,0.79,0.62
+"Environmental","Prevalence of Infectious Disease (deaths per 100,000) (R)",14.95,0.77,0.59,14.4,-0.44,0.2
+"Environmental","Rule of Law (C)",15.95,0.79,0.63,8.5,0.34,0.12
+"Environmental","Socio-Economic Vulnerability (R)",21.16,0.91,0.83,2.46,-0.18,0.03
+"Environmental","Uprooted people (R)",3.2,0.35,0.13,9.61,0.36,0.13
+"Political","Decentralised Elections (C)",6.25,0.55,0.31,30.09,0.51,0.26
+"Political","Judicial Constraints on Executive Power (C)",16.4,0.9,0.8,5.42,0.22,0.05
+"Political","Legislative Constraints on Executive Power (C)",13.49,0.81,0.66,16.63,0.38,0.14
+"Political","Perception of Corruption (R)",16,0.88,0.78,8.95,-0.28,0.08
+"Political","Political Terror (R)",12.33,0.78,0.6,6.35,-0.23,0.05
+"Political","Regime Persistance (R)",8.73,0.65,0.43,26.1,-0.47,0.23
+"Political","Restricted Gender Physical integrity Value (C)",8.67,0.65,0.42,5.3,-0.21,0.05
+"Political","Voice and Accountability (C)",18.13,0.94,0.89,1.15,0.1,0.01
+"Security","Armed Security Officers per 100,000 (C)",0.02,0.03,0,10.62,0.46,0.21
+"Security","Battle Related Deaths Per Capita (log) (R)",11.44,0.68,0.47,12.41,-0.49,0.24
+"Security","Control over territory (C)",15.09,0.78,0.61,0.78,-0.12,0.02
+"Security","Deaths by non-state actors per capita (R)",5.6,0.48,0.23,8.51,-0.41,0.17
+"Security","Formal Alliances (C)",3.99,0.4,0.16,14.35,0.53,0.28
+"Security","Homicide Rate (R)",1.46,0.24,0.06,15.07,0.54,0.3
+"Security","Impact of Terrorism (R)",11.85,0.69,0.48,8.01,-0.4,0.16
+"Security","Level of Violent Criminal Activity (R)",13.43,0.74,0.55,6.16,0.35,0.12
+"Security","Police Officers per 100,000 (C)",0.14,0.07,0.01,5.82,0.34,0.11
+"Security","Restricted Gender Physical integrity Value (C)",7.38,0.55,0.3,6.27,0.35,0.12
+"Security","Rule of Law (C)",12.45,0.71,0.51,8.45,0.41,0.17
+"Security","Violent Conflict Risk (R)",17.16,0.84,0.7,3.55,-0.26,0.07
+"Societal","Access to justice (C)",19.34,0.88,0.78,4.62,-0.25,0.06
+"Societal","Core civil society index (C)",13.87,0.75,0.56,18.86,-0.5,0.25
+"Societal","Gender Inequality (R)",13.56,0.74,0.55,20.49,0.52,0.27
+"Societal","GINI Coefficient (R)",5.72,0.48,0.23,31.54,0.64,0.41
+"Societal","Horizontal inequality (R)",13.86,0.75,0.56,2.95,-0.2,0.04
+"Societal","Uprooted people (R)",3.88,0.4,0.16,2.17,-0.17,0.03
+"Societal","Urbanisation Growth (R)",9.59,0.62,0.39,16.41,0.46,0.21
+"Societal","Voice and Accountability (C)",20.18,0.9,0.82,2.97,-0.2,0.04
